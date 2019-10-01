@@ -1,2 +1,2 @@
 # JavaStarter
-My first repository
+В public class tasks ініціалізовані три змінні типу String:firsttask,secondtask та thirdtask.У завданні вказано,що потрібно скласти програму,яка містить список із трьох завдань і виводить ті,які треба зробити завтра.Тому за допомогою методу System.out.println() на консоль виводиться речення:"This is a task that you have to do tomorrow:".За допомогою System.out.println() на еран виводимо 3 завдання-System.out.println(thirdtask).
